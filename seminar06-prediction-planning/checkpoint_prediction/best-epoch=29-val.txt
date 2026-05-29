@@ -1,0 +1,2 @@
+put into checkpoint_prediction/best-epoch\=29-val/epoch/min_ade=1.00.ckpt
+https://drive.google.com/file/d/1u6frNwrSqibuEENyDeqevXxyaRjeUIFR/view?usp=drive_link
